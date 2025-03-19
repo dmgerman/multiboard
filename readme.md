@@ -46,13 +46,16 @@ A multiboard board is composed of a grid of tiles.  Each tile is 25mm in size. S
    
 Each tile is threaded. In between 4 tiles there is diamond with a threaded hole in the middle.
 
+abc  ![Panel](./tiles.png)
+
+
 Attachments can connect to Multiboard in four different ways: 
 
 - tiles: 
   - push connectors (they rely in pressure and friction to stay in place)
-  - threaded connectors (such as Multiconnect) that take advantage of the threads
+  - threaded connectors (such as [Multiconnect](https://makerworld.com/en/collections/3718428-multiconnect-base-models)) that take advantage of the threads
   
-- diamond:
+- diamonds:
   - pass through connectors (similar to those found in pegboards)
   - threaded connectors, such as bolts.
 
