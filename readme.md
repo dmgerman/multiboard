@@ -79,7 +79,7 @@ https://makerworld.com/en/models/749339). These panels can be mechanically conne
 the diamond threads) to create a single board. It is then possible to use connect this single panel to the wall where
 required (based on characteristics of substrate and/or expected weight load)
 
-## I want to screw directly to the wall, Any recommendations? 
+## I want to screw directly to the wall, any recommendations? 
 
 It is best to use screws with a conic head. That way the screws do not obstruct any attachments. Make sure that the head
 has a maximum diameter above 6mm.  M3.5 screws are the minimum size you can use. To make sure the panels remain aligned,
