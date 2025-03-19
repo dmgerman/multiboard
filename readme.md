@@ -22,7 +22,11 @@ According to the Multiboard creators (see https://www.multiboard.io/license) you
   - give appropriate credit including linking to their website and license
   - you implicitly give a full license to the Multiboard creators 
   
+## I multiboard free?
 
+For the majority of use-cases downloading and 3d-printing multiboard components is free. 
+
+While you can subscribe to their Memberships (see https://www.multiboard.io/support) it is not necessary.
 
 ## What are the main components of multiboard
 
@@ -46,7 +50,7 @@ A multiboard board is composed of a grid of tiles.  Each tile is 25mm in size. S
    
 Each tile is threaded. In between 4 tiles there is diamond with a threaded hole in the middle.
 
-abc  ![Panel](./tiles.png)
+![Panel](./tiles-small.png)
 
 
 Attachments can connect to Multiboard in four different ways: 
