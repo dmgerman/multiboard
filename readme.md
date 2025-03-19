@@ -65,7 +65,7 @@ Attachments can connect to Multiboard in four different ways:
 
 ## How do I attach the panels to the substrate (wall or desk)?
 
-There are two methods to attach panels to the well: screw-on mounts, and directly to the substrate
+There are two methods to attach panels to the wall: screw-on mounts, and directly to the substrate
 
 - Screw-on mounts (see https://www.multiboard.io/parts-library/mounting-systems)
   These components, typically known as "snaps" attach to the substrate using one or more screws. The boards is then pushed into place. Usually a Quad-Offset-Snap is used 
