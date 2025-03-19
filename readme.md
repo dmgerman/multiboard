@@ -63,6 +63,9 @@ Attachments can connect to Multiboard in four different ways:
   - pass through connectors (similar to those found in pegboards)
   - threaded connectors, such as bolts.
 
+
+
+
 ## How do I attach the panels to the substrate (wall or desk)?
 
 There are two methods to attach panels to the wall: screw-on mounts, and directly to the substrate
@@ -87,6 +90,22 @@ has a maximum diameter larger than 6mm.  M3.5 screws are the minimum size you ca
 I recommend you use a pilot hole ([this is a handy pilot hole guide](https://makerworld.com/en/models/1091343)).  You
 can also use these [bolts](https://makerworld.com/en/models/1092547) and an extra panel to make sure the panel you are
 attaching is align with previously connected ones (or to skip an area where you cannot cover with a panel).
+
+## Can I create models for multiboard that are not affected by the Multiboard license?
+
+While this is not legal advice, it appears that the simplest way is to avoid reusing official files (e.g. STEP or STL files from Multiboard.io).
+
+There two generic methods that will allow you to create components free of Multiboard.io files:
+
+1. Simply add holes to your design. This holes must 7.2mm diameter at least and spaced every 25 mm. 
+   Use bolts compatible with Multiboard  to attach to the panel.
+   
+2. Design your model to use multiconnect (See below). Multiconnect is an open, flexible and powerful method to connect
+   attachments to different types of boards, including the Multiboard, the [Honeycomb Storage Wall
+   system](https://www.printables.com/model/152592-honeycomb-storage-wall), the [Greatly Over Engineered Wall
+   System](https://www.printables.com/model/1090032-goews-greatly-over-engineered-wall-system), and the (OpenGrid
+   Wall/Desk mounting
+   framework)[(https://www.printables.com/model/1214361-opengrid-walldesk-mounting-framework-and-ecosystem)].
 
 ## What is Multiconnect?
 
