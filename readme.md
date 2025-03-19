@@ -13,7 +13,7 @@ You can find the multiboard license here: https://docs.google.com/document/d/1C0
 According to the Multiboard creators (see https://www.multiboard.io/license) you are given the rights to:
 
 - use 3d-designs for personal use (non-commercial)
-  - if you want to sell Multiboard products (and your derivatives) you must seek
+  - if you want to sell Multiboard products (and any derivatives) you must seek
     a commercial license
 
 - Remix non-trivial designs as long as:
