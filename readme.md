@@ -75,9 +75,10 @@ There are two methods to attach panels to the well: screw-on mounts, and directl
   panel will require one screw in each corner.
   
 To better control the placement of screws, you can use overlapping multiboard (see
-https://makerworld.com/en/models/749339). These panels can be mechanically connected together using small bolts (using
-the diamond threads) to create a single board. It is then possible to use connect this single panel to the wall where
-required (based on characteristics of substrate and/or expected weight load)
+https://makerworld.com/en/models/749339). These panels can be mechanically connected together using small bolts (through
+the diamond threads) to create a single board. You can connect this single panel to the wall where
+necessary, depending on the characteristics of the substrate and/or the expected weight load.
+
 
 ## I want to screw directly to the wall, any recommendations? 
 
