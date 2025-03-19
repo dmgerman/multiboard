@@ -63,6 +63,30 @@ Attachments can connect to Multiboard in four different ways:
   - pass through connectors (similar to those found in pegboards)
   - threaded connectors, such as bolts.
 
+## How do I attach the panels to the substrate (well or desk)?
+
+There are two methods to attach panels to the well: screw-on mounts, and directly to the substrate
+
+- Screw-on mounts (see https://www.multiboard.io/parts-library/mounting-systems)
+  These components, typically known as "snaps" attach to the substrate using a screw. The boards is then pushed into place. Usually a Quad-Offset-Snap is used to 
+  to mount 4 panels simultaneously (at their corners). Single and dual snaps are used to mount the border panels.
+  
+- Using screws, directly to the substrate. Screws are driven in the diamond holes to attach a board to the substrate.  A
+  panel will require one screw in each corner.
+  
+To better the control the placement of screws, you can use overlapping multiboard (see
+https://makerworld.com/en/models/749339). These panels can be mechanically connected together using small bolts (using
+the diamond threads) to create a single board. It is then possible to use connect this single panel to the wall where
+required (based on characteristics of substrate and/or expected weight load)
+
+## I want to screw directly to the wall, Any recommendations? 
+
+It is best to use screws with a conic head. That way the screws do not obstruct any attachments. Make sure that the head
+has a maximum diameter above 6mm.  M3.5 screws are the minimum size you can use. To make sure the panels remain aligned,
+I recommend you use a pilot hole ([this is a handy pilot hole guide](https://makerworld.com/en/models/1091343)).  You
+can also use these [bolts](https://makerworld.com/en/models/1092547) and an extra panel to make sure the panel you are
+attaching is align with previously connected ones (or to skip an area where you cannot cover with a panel).
+
 ## What is Multiconnect?
 
 Multiconnect is a generic connector system that can be used to attach several models to your multiboard panel. It is not specific to multiboard, but
