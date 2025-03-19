@@ -83,7 +83,7 @@ necessary, depending on the characteristics of the substrate and/or the expected
 ## I want to screw directly to the wall, any recommendations? 
 
 It is best to use screws with a conic head. That way the screws do not obstruct any attachments. Make sure that the head
-has a maximum diameter above 6mm.  M3.5 screws are the minimum size you can use. To make sure the panels remain aligned,
+has a maximum diameter larger than 6mm.  M3.5 screws are the minimum size you can use. To make sure the panels remain aligned,
 I recommend you use a pilot hole ([this is a handy pilot hole guide](https://makerworld.com/en/models/1091343)).  You
 can also use these [bolts](https://makerworld.com/en/models/1092547) and an extra panel to make sure the panel you are
 attaching is align with previously connected ones (or to skip an area where you cannot cover with a panel).
