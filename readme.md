@@ -48,7 +48,7 @@ The main components of multiboard are:
 A multiboard board is composed of a grid of tiles.  Each tile is 25mm in size. See
    https://thangs.com/designer/Multiboard/3d-model/6x6%2520Multiboard%2520Core%2520Tile-974378 
    
-Each tile is threaded. In between 4 tiles there is diamond with a threaded hole in the middle.
+Each tile is threaded. In between 4 tiles there is a diamond with a threaded hole in the middle.
 
 ![Panel](./tiles-small.png)
 
