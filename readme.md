@@ -1,12 +1,12 @@
 # Multiboard and Underware FAQs and other documentation
 
-## What is Multiboard
+## What is Multiboard?
 
 Multiboard is an organization system that can be 3d-printed. 
 See https://www.multiboard.io
 
 
-## What is the license of multiboard
+## What is the license of multiboard?
 
 You can find the multiboard license here: https://docs.google.com/document/d/1C0-Iyxydqk_d2I3o_5ualJ9Ywt9gwVdl9eukvC8JeKA/edit?tab=t.0
 
@@ -22,13 +22,13 @@ According to the Multiboard creators (see https://www.multiboard.io/license) you
   - give appropriate credit including linking to their website and license
   - you implicitly give a full license to the Multiboard creators 
   
-## I multiboard free?
+## Is multiboard free?
 
 For the majority of use-cases downloading and 3d-printing multiboard components is free. 
 
 While you can subscribe to their Memberships (see https://www.multiboard.io/support) it is not necessary.
 
-## What are the main components of multiboard
+## What are the main components of multiboard?
 
 The main components of multiboard are: 
 
@@ -63,7 +63,7 @@ Attachments can connect to Multiboard in four different ways:
   - pass through connectors (similar to those found in pegboards)
   - threaded connectors, such as bolts.
 
-## What is Underware 
+## What is Underware?
 
 Underware is a system created by HandsOnKatie (https://handsonkatie.com/) with the goal of managing cables and other accessories under a desk.
 Underware can use multiboard panels as a substrate but it can also use OpenGrid panels.
