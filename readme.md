@@ -63,7 +63,7 @@ Attachments can connect to Multiboard in four different ways:
   - pass through connectors (similar to those found in pegboards)
   - threaded connectors, such as bolts.
 
-## How do I attach the panels to the substrate (well or desk)?
+## How do I attach the panels to the substrate (wall or desk)?
 
 There are two methods to attach panels to the well: screw-on mounts, and directly to the substrate
 
