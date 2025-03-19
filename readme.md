@@ -1,32 +1,15 @@
-# Multiboard and Underware FAQs and other documentation
+# Multiboard and Underware FAQs and other documentation <!-- omit from toc -->
 
 ## What is Multiboard?
 
 Multiboard is an organization system that can be 3d-printed.
 See https://www.multiboard.io
 
+## What are common applications for multiboard?
 
-## What is the license of multiboard?
-
-You can find the multiboard license here: https://docs.google.com/document/d/1C0-Iyxydqk_d2I3o_5ualJ9Ywt9gwVdl9eukvC8JeKA/edit?tab=t.0
-
-According to the Multiboard creators (see https://www.multiboard.io/license) you are given the rights to:
-
-- use 3d-designs for personal use (non-commercial)
-  - if you want to sell Multiboard products (and any derivatives) you must seek
-    a commercial license
-
-- Remix non-trivial designs as long as:
-  - they are not trivial
-  - they are distributed under the Multiboard license (original license)
-  - give appropriate credit including linking to their website and license
-  - you implicitly give a full license to the Multiboard creators
-
-## Is multiboard free?
-
-For the majority of use-cases downloading and 3d-printing multiboard components is free.
-
-While you can subscribe to their Memberships (see https://www.multiboard.io/support) it is not necessary.
+- **Base Structure**: Tiles form the base where you can screw in threads, insert snaps, or use pegboard-style holes.
+- **Surface and Shelving**: Tiles can act as the surface or supporting brackets for shelves.
+- **Modular Assembly**: Their symmetrical design and stackable printing make them ideal for creating modular and scalable structures.
 
 ## What are the main components of multiboard?
 
@@ -36,34 +19,74 @@ The main components of multiboard are:
    can also be used horizontally (e.g. under a desk, see Underware below).
 
 2. Accessories to attach to the wall.
-  - Shelves,
-  - Hooks,
-  - etc.
+  - Shelves
+  - Hooks
+  - Storage containers (standalone or attachable)
+  - Other modular components
 
 3. Storage containers
   - these can be used stand alone or can be attach to the panels
+
+
+These components allow for endless customization and scalability, making Multiboard suitable for a wide range of applications.
+
+## What is the license of multiboard?
+
+You can find the multiboard license here: https://docs.google.com/document/d/1C0-Iyxydqk_d2I3o_5ualJ9Ywt9gwVdl9eukvC8JeKA/edit?tab=t.0
+
+According to the Multiboard creators (see https://www.multiboard.io/license) you are given the rights to:
+
+- use 3d-designs for personal use (non-commercial)
+
+- Remix non-trivial designs as long as:
+  - they are not trivial
+  - they are distributed under the Multiboard license (original license)
+  - give appropriate credit including linking to their website and license
+  - you implicitly give a full license to the Multiboard creators
+
+If you want to sell Multiboard products (and any derivatives) you must seek
+a commercial license
+
+In summary: Multiboard is licensed for personal, non-commercial use. For commercial use or selling derivatives, you
+must obtain a commercial license. 
+
+
+## Is multiboard free?
+
+Yes, for most use cases, downloading and 3D-printing Multiboard components is free. However, you can support the project
+by subscribing to their [Memberships](https://www.multiboard.io/support). 
+
+Memberships are optional and not required for
+general use.
+
+
 
 ## What makes multiboard panels special?
 
 A multiboard board is composed of a grid of tiles.  Each tile is 25mm in size. See
    https://thangs.com/designer/Multiboard/3d-model/6x6%2520Multiboard%2520Core%2520Tile-974378
 
-Each tile is threaded. In between 4 tiles there is a diamond with a threaded hole in the middle.
 
 ![Panel](./tiles-small.png)
 
+Its main features are:
 
-Attachments can connect to Multiboard in four different ways:
+- **Threaded Design**: Each tile is threaded, enabling the use of threaded connectors such as [Multiconnect](https://makerworld.com/en/collections/3718428-multiconnect-base-models) or bolts.
+- **Diamond Connectors**: Between every four tiles, there is a diamond-shaped area with a threaded hole in the center. This allows for additional connection options, such as pass-through connectors or bolts.
+- **Symmetry**: Tiles are symmetrical on both sides, making them easy to use and assemble in any orientation.
+- **Stackable Printing**: Multiple tiles can be printed on top of each other to save time during manufacturing.
 
-- using the tiles:
-  - push connectors (they rely on pressure and friction to stay in place)
-  - threaded connectors (such as Multiconnect, see below) that take advantage of the threads
+## How can I attach accessories to the Multiboard?
+
+You can connect accessories to the board using one of the following methods:
+
+- using the **tiles**:
+  - **push connectors** (rely on pressure and friction to stay in place)
+  - **threaded connectors** (such as Multiconnect, see below) that take advantage of the threads
 
 - using the diamonds:
-  - pass through connectors (similar to those found in pegboards)
-  - threaded connectors, such as bolts.
-
-
+  - **pass through connectors** (similar to those found in pegboards)
+  - **threaded connectors**, such as bolts.
 
 
 ## How do I attach the panels to the substrate (wall or desk)?
@@ -86,10 +109,17 @@ necessary, depending on the characteristics of the substrate and/or the expected
 ## I want to screw directly to the wall, any recommendations? 
 
 It is best to use screws with a conic head. That way the screws do not obstruct any attachments. Make sure that the head
-has a maximum diameter larger than 6mm.  M3.5 screws are the minimum size you can use. To make sure the panels remain aligned,
+has a maximum diameter larger than 6mm.  M3.5and #8-32 screws are the minimum size you can use. To make sure the panels remain aligned,
 I recommend you use a pilot hole ([this is a handy pilot hole guide](https://makerworld.com/en/models/1091343)).  You
 can also use these [bolts](https://makerworld.com/en/models/1092547) and an extra panel to make sure the panel you are
 attaching is align with previously connected ones (or to skip an area where you cannot cover with a panel).
+
+## Can the panels be attached to the wall without using screws?
+
+Command Strips or VHB/Nano tape can be use with mounts designed for adhesives. Examples of these mounts are [Single Snap
+(DS Part A) - Small Command Strip Mount](https://than.gs/m/1112072) and [Single Snap (DS Part A) - Medium VHB Tape
+Mount](https://than.gs/m/1060994)
+
 
 ## Can I create models for multiboard that are not affected by the Multiboard license?
 
