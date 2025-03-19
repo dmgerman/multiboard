@@ -56,7 +56,7 @@ Each tile is threaded. In between 4 tiles there is a diamond with a threaded hol
 Attachments can connect to Multiboard in four different ways: 
 
 - tiles: 
-  - push connectors (they rely in pressure and friction to stay in place)
+  - push connectors (they rely on pressure and friction to stay in place)
   - threaded connectors (such as [Multiconnect](https://makerworld.com/en/collections/3718428-multiconnect-base-models)) that take advantage of the threads
   
 - diamonds:
