@@ -68,7 +68,7 @@ Attachments can connect to Multiboard in four different ways:
 There are two methods to attach panels to the wall: screw-on mounts, and directly to the substrate
 
 - Screw-on mounts (see https://www.multiboard.io/parts-library/mounting-systems)
-  These components, typically known as "snaps" attach to the substrate using one or more screws. The boards is then pushed into place. Usually a Quad-Offset-Snap is used 
+  These components, typically known as "snaps", attach to the substrate using one or more screws. The boards is then pushed into place. Usually a Quad-Offset-Snap is used 
   to mount 4 panels simultaneously (at their corners). Single and dual snaps are used to mount the border panels.
   
 - Using screws, directly to the substrate. Screws are driven in the diamond holes to attach a board to the substrate.  A
