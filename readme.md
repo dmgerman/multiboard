@@ -103,9 +103,9 @@ There two generic methods that will allow you to create components free of Multi
 2. Design your model to use multiconnect (See below). Multiconnect is an open, flexible and powerful method to connect
    attachments to different types of boards, including the Multiboard, the [Honeycomb Storage Wall
    system](https://www.printables.com/model/152592-honeycomb-storage-wall), the [Greatly Over Engineered Wall
-   System](https://www.printables.com/model/1090032-goews-greatly-over-engineered-wall-system), and the (OpenGrid
+   System](https://www.printables.com/model/1090032-goews-greatly-over-engineered-wall-system), and the [OpenGrid
    Wall/Desk mounting
-   framework)[(https://www.printables.com/model/1214361-opengrid-walldesk-mounting-framework-and-ecosystem)].
+   framework](https://www.printables.com/model/1214361-opengrid-walldesk-mounting-framework-and-ecosystem).
 
 ## What is Multiconnect?
 
