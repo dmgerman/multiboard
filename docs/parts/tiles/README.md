@@ -13,6 +13,9 @@ The Multiboard tiles form the foundation of the system, providing a versatile ba
   - [Corner Tiles](#corner-tiles)
 - [Mounting](#mounting)
   - [Screws](#screws)
+    - [Screw-on mounts](#screw-on-mounts)
+    - [Direct](#direct)
+    - [Reconmended Screws](#reconmended-screws)
   - [Adhesive](#adhesive)
 - [Model Links](#model-links)
   - [Models](#models)
@@ -67,9 +70,24 @@ Tile can be attached to surfaces using the following methods
 
 ### Screws
 
-Tiles can be attached to a surface using screws directly through the peg holes or using a screw on mount. The following screw types are reconmmend:
+There are two methods to attach tiles to the wall: screw-on mounts and directly to the surface
 
-- 3.5mm x 20mm screw
+#### Screw-on mounts
+
+These [components](https://www.multiboard.io/parts-library/mounting-systems), typically known as "snaps", attach to the substrate using one or more screws. The boards is then pushed into place. Usually a Quad-Offset-Snap is used to mount 4 tiles simultaneously (at their corners). Single and dual snaps are used to mount the border tiles.
+
+#### Direct
+
+Using screws, directly to the substrate. Screws are driven in the diamond holes to attach a board to the surface. A tile will require one screw in each corner.
+
+To better control the placement of screws, you can use [overlapping multiboard tiles](
+https://makerworld.com/en/models/749339). These tiles can be mechanically connected together using small bolts (through
+the diamond threads) to create a single tile. You can connect this single tile to the wall where necessary, depending on the characteristics of the surface and/or the expected weight load.
+
+#### Reconmended Screws
+
+- M6
+- 3.5mm
 - #8-32
 
 ### Adhesive
